@@ -62,15 +62,15 @@ Exploring modern engineering platforms using AWS, Kubernetes, GitOps, observabil
 
 **Languages**
 
-`TypeScript` `JavaScript` `Python`
+`PHP` `Java` `Shell` `Python`
 
 **Cloud & Infrastructure**
 
-`AWS` `Kubernetes` `Docker` `Terraform` `ArgoCD`
+`AWS` `Kubernetes` `Docker` `ArgoCD`
 
 **Data & Streaming**
 
-`Kafka` `Debezium` `Snowflake` `ClickHouse` `Redis`
+`Kafka` `Debezium` `Snowflake` `Redis`
 
 **AI / ML**
 
@@ -102,12 +102,10 @@ Progressed through multiple technical roles across customer support, technical s
 
 🎓 **OP Jindal Global University** — MBA, AI in Business
 
-🎓 **DY Patil University** — BBA
-
 🎓 **KSOU** — Computer Science
 
 📚 Google AI Professional Certificate  
-📚 AWS · Kubernetes · MLOps · AI Engineering
+📚 AWS · Kubernetes · AI Engineering
 
 ---
 
