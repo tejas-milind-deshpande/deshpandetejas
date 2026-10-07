@@ -123,7 +123,7 @@ I write and learn about **system design, AI engineering, architecture, cloud pla
 
 ## Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/tejas-deshpande/) · [GitHub](https://github.com/deshpandetejas)
+[LinkedIn](https://www.linkedin.com/in/tejas-milind-deshpande/) · [GitHub](https://github.com/deshpandetejas)
 
 ---
 
